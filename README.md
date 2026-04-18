@@ -1,2 +1,2 @@
-# Taka__Cafe-website
+# Cafe-website
 カフェのサイトをHTML・CSSで制作しました。
